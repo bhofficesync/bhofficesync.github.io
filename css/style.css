@@ -1,0 +1,25 @@
+body {
+  background-color: beige;
+  background-size: cover;
+  color: white;
+  text-align: center;
+}
+
+h1 {
+  color: rgb(135, 172, 241);
+}
+
+#todo-list {
+  width: 300px;
+  color: pink;
+  margin-left: auto;
+  margin-right: auto;
+}
+
+#todo-list li {
+  text-align: left;
+}
+
+.hidden {
+  display: none;
+}
